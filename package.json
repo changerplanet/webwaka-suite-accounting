@@ -1,0 +1,8 @@
+{
+  "name": "webwaka-suite-accounting",
+  "version": "0.1.0",
+  "description": "WebWaka accounting suite - runtime",
+  "scripts": {
+    "test": "echo 'No tests yet' && exit 0"
+  }
+}
